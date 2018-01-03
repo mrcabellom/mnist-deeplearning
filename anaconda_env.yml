@@ -1,4 +1,4 @@
-name: cntk22dotnetmalaga
+name: cntk22mnist
 channels:
 - defaults
 dependencies:
