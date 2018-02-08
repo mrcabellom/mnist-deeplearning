@@ -26,4 +26,4 @@ Los ficheros se descargarán en el directorio especificado en el archivo setting
 
 La lectura de los archivos se podrá realizar utilizando los deserializadores de CTF disponibles en CNTK.
 
-Para compartir el código en directo, vamos a utilizar la herramienta [codeshare]
+Para compartir el código en directo, vamos a utilizar la herramienta [codeshare](https://codeshare.io/aYP4eN)
