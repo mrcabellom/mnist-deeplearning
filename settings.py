@@ -12,3 +12,4 @@ MINST_DOWNLOAD_INFO = {
         'SAMPLES': 10000
     }
 }
+TENSOR_LOG_DIR = 'log'
